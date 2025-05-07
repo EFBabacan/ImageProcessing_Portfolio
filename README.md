@@ -1,0 +1,67 @@
+# Image Processing Portfolio
+
+Welcome to my Image Processing Portfolio! This repository contains a collection of Python scripts and projects demonstrating various concepts and techniques in digital image processing.
+
+## About This Portfolio
+
+This portfolio showcases my learning journey and practical applications in image processing, starting from fundamental operations to more advanced topics. Each sub-directory typically represents a specific topic, week of study, or a mini-project.
+
+## Current Content
+
+So far, this portfolio includes:
+
+* **`week1_basics_and_geometric_transformations/`**: Covers fundamental image properties (like dimensions and resolution) and basic geometric transformations such as bilinear interpolation and affine transformations.
+
+*(As you add more weeks or topics, you can list them here.)*
+
+## Technologies Used
+
+* Python 3.x
+* Pillow (PIL Fork)
+* NumPy
+* Matplotlib
+
+## How to Use
+
+Navigate into the specific sub-directories (e.g., `week1_...`) to find individual Python scripts. Each sub-directory should also contain its own `README.md` file providing more detailed explanations and instructions for the scripts within that section.
+
+## Contact
+
+*(Optional: You can add your contact information here if you wish)*
+* GitHub: [EFBabacan](https://github.com/EFBabacan)
+* E-posta: enesf.babacan@gmail.com.com
+
+---
+
+# Görüntü İşleme Portfolyosu
+
+Görüntü İşleme Portfolyoma hoş geldiniz! Bu depo, dijital görüntü işlemedeki çeşitli kavramları ve teknikleri gösteren Python betikleri ve projelerinden oluşan bir koleksiyon içermektedir.
+
+## Bu Portfolyo Hakkında
+
+Bu portfolyo, temel işlemlerden daha ileri konulara kadar görüntü işlemedeki öğrenme yolculuğumu ve pratik uygulamalarımı sergilemektedir. Her bir alt dizin genellikle belirli bir konuyu, çalışma haftasını veya mini bir projeyi temsil eder.
+
+## Mevcut İçerik
+
+Şu ana kadar bu portfolyo şunları içermektedir:
+
+* **`week1_basics_and_geometric_transformations/`**: Görüntülerin temel özelliklerini (boyutlar, çözünürlük gibi) ve bilineer enterpolasyon ile afin dönüşümler gibi temel geometrik dönüşümleri kapsar.
+
+*(Daha fazla hafta veya konu ekledikçe bunları burada listeleyebilirsiniz.)*
+
+## Kullanılan Teknolojiler
+
+* Python 3.x
+* Pillow (PIL Forku)
+* NumPy
+* Matplotlib
+
+## Nasıl Kullanılır
+
+İlgili Python betiklerini bulmak için belirli alt dizinlere (örneğin, `week1_...`) gidin. Her alt dizin ayrıca, o bölümdeki betikler için daha ayrıntılı açıklamalar ve talimatlar içeren kendi `README.md` dosyasını da barındırmalıdır.
+
+## İletişim
+
+*(İsteğe Bağlı: İsterseniz iletişim bilgilerinizi buraya ekleyebilirsiniz)*
+* GitHub: [EFBabacan](https://github.com/EFBabacan)
+* E-posta: enesf.babacan@gmail.com.com

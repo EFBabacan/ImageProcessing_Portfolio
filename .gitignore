@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment Folders
+venv/
+env/
+.venv/git --version
+ENV/
+pip-selfcheck.json
+
+# IDE and Editor Folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
