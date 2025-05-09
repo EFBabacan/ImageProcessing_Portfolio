@@ -3,9 +3,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Path to your image file.
-# Ensure "foto1.jpeg" is in the same directory as this script,
-# or in a subfolder like 'sample_images' (then use "sample_images/foto1.jpeg").
-IMAGE_PATH = "foto1.jpeg"  # You can use your 'foto1.jpeg' or another color image
+
+
+IMAGE_PATH = "sample_images/foto1.jpeg"
 
 try:
     # Load the color image using OpenCV

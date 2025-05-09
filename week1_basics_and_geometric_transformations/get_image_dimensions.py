@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt  # Import the Matplotlib library for plotting
 # Path to the image to be used.
 # If in a subfolder like 'sample_images', it should be 'sample_images/img1.jpg'.
 # Make sure this path points to an actual image file on your system.
-IMAGE_PATH = "foto1.jpeg"
+
+IMAGE_PATH = "sample_images/foto1.jpeg"
 
 try:
     # Open the image using Pillow (PIL)

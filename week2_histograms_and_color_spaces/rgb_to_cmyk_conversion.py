@@ -3,9 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Path to your image file.
-# Ensure "foto1.jpeg" is in the same directory as this script,
-# or provide the correct path (e.g., "sample_images/foto1.jpeg").
-IMAGE_PATH = "foto1.jpeg"
+IMAGE_PATH = "sample_images/flowers.png"
 
 try:
     # Load the RGB image using Pillow

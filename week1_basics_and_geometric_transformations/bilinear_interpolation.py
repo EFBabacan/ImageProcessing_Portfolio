@@ -61,7 +61,8 @@ if __name__ == '__main__':
     # Path to your image file.
     # Make sure "foto1.jpeg" is in the same directory as this script,
     # or provide the correct full or relative path.
-    IMAGE_PATH = "foto1.jpeg"
+
+    IMAGE_PATH = "sample_images/foto1.jpeg"
 
     try:
         # Load the image using Pillow
